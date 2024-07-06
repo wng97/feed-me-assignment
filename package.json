@@ -2,8 +2,8 @@
   "name": "feed-me-assignment",
   "version": "0.0.1",
   "description": "A Quasar Project",
-  "productName": "Quasar App",
-  "author": "wng97 <wng8797@gmail.com>",
+  "productName": "McDonald Cooking Bots",
+  "author": "wng97 <76024768+wng97@users.noreply.github.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
